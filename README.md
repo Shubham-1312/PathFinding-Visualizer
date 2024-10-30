@@ -33,7 +33,7 @@ Installation ->
 Clone the repository:
 
 Copy code
-git clone https://github.com/Shubham-1312
+git clone https://github.com/Shubham-1312/PathFinding-Visualizer
 Install dependencies:
 
 Copy code
